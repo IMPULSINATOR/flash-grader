@@ -2,6 +2,10 @@
 
 An automated, reproducible exam grading and rubric management system for handwritten, code, and text student answer scripts.
 
+
+
+![Teacher review screen: per-question marks with reasons](assets/2-review-screen.jpg)
+
 ---
 
 ## Features
